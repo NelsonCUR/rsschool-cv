@@ -18,6 +18,6 @@ function highAndLow(numbers){
 }
     
 ```
-6. I haven't projects
+6. My first project is [CV#1. Markdown & Git](https://NelsonCUR.github.io/rsschool-cv/cv)
 7. Education: 
 8. _English level: A2_

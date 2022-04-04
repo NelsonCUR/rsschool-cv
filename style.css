@@ -1,0 +1,21 @@
+img {
+    width: 100px;
+}
+
+.important-size {
+    font-size: 5px;
+}
+
+.impirtant-item {
+    color: blue;
+    font-size: 35px; 
+    border: black 5px solid; 
+        margin-left: 20px;
+    padding: 20px;
+margin-block-end:auto;
+text-align: start;
+
+}
+input {
+    padding-left: 20px; 
+}
